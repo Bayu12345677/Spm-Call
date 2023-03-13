@@ -1,8 +1,5 @@
 #if 0
-	shc Version 4.0.3, Generic Shell Script Compiler
-	GNU GPL Version 3 Md Jahidul Hamid <jahidulhamid@yahoo.com>
-
-	shc -Urvf spm.ash -o main.c 
+    Code by pejuang kentang
 #endif
 
 static  char data [] = 
