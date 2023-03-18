@@ -21,6 +21,7 @@
             1. kalian wajib mengupgrade dan mengupdate termux kalian
             2. menginstall paket yang sesuai dengan yang dibutuhkan program
             3. dan jangan lupa mengambil token
+            4. ukuran display [x:89 dan y:39]
 
 - ## command setup
 
